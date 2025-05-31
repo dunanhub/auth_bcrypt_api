@@ -35,7 +35,7 @@ git clone https://github.com/your-username/auth_bcrypt_api.git
 cd auth_bcrypt_api
 ```
 
-````bash
+```bash
 # 🧪 Создай виртуальное окружение
 
 python -m venv .venv
@@ -50,7 +50,7 @@ source .venv/bin/activate # macOS/Linux
 ```bash
 # 📦 Установи зависимости
 pip install -r requirements.txt
-````
+```
 
 ```env
 # ⚙️ Настрой файл .env
