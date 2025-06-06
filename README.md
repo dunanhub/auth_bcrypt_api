@@ -99,7 +99,7 @@ POST http://localhost:8000/login
 ## 📂 Структура проекта
 
 ```
-auth_api/
+auth_bcrypt_api/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
